@@ -4,13 +4,13 @@
 
 ## Download
 
-### URL1
+### URL1 (jsdmirror)
 
-- [GeoLite2-ASN.mmdb](https://git.io/GeoLite2-ASN.mmdb)
-- [GeoLite2-City.mmdb](https://git.io/GeoLite2-City.mmdb)
-- [GeoLite2-Country.mmdb](https://git.io/GeoLite2-Country.mmdb)
+- [GeoLite2-ASN.mmdb](https://cdn.jsdmirror.com/gh/cuiqg/GeoLite.mmdb@download/GeoLite2-ASN.mmdb)
+- [GeoLite2-City.mmdb](https://cdn.jsdmirror.com/gh/cuiqg/GeoLite.mmdb@download/GeoLite2-City.mmdb)
+- [GeoLite2-Country.mmdb](https://cdn.jsdmirror.com/gh/cuiqg/GeoLite.mmdb@download/GeoLite2-Country.mmdb)
 
-### URL2
+### URL2 (github raw)
 
 - [GeoLite2-ASN.mmdb](https://github.com/cuiqg/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb)
 - [GeoLite2-City.mmdb](https://github.com/cuiqg/GeoLite.mmdb/raw/download/GeoLite2-City.mmdb)
